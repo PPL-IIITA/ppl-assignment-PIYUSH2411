@@ -7,7 +7,7 @@ RIT2015083
 
 #Command to run on windows
 
-1. Open command Prompt and change Directory to extracted folder "ppl-assignment-PIYUSH2411".
+1. Open command Prompt and change Directory to extracted folder "ppl-assignment-PIYUSH2411-master".
 
 2. Make ques1 as your current directory. 
 
