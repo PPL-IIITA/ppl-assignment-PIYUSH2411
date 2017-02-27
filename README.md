@@ -17,7 +17,7 @@ RIT2015083
 
 #To See Documentation
 
-1. Go to extracted folder "ppl-assignment-PIYUSH2411".
+1. Go to extracted folder "ppl-assignment-PIYUSH2411-master".
 
 2. Run index.html whose path is "/ppl-assignment-PIYUSH2411-master/Documentation_Ques1/index.html".
 
